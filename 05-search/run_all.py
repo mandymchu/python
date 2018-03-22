@@ -1,6 +1,4 @@
-# simple script to run the examples from the book for this chapter
-# 
-# 
+#  
 #
 import os 
 import searchengine
