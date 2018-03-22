@@ -1,3 +1,4 @@
+# neural network
 from math import tanh
 import sqlite3 as sqlite
 
